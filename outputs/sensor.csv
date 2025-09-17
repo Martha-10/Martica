@@ -1,0 +1,16 @@
+id_sensor,estado_sensor,fecha_mantenimiento,tipo_sensor,finca
+SENS001,Inactive,2024-06-01,Rainfall,Finca 1
+SENS002,Active,2024-06-04,Temperature,Finca 2
+SENS003,Active,2024-06-07,Humidity,Finca 3
+SENS004,Active,2024-06-10,Temperature,Finca 4
+SENS005,Faulty,2024-06-13,Temperature,Finca 5
+SENS006,Inactive,2024-06-16,pH,Finca 1
+SENS007,Faulty,2024-06-19,pH,Finca 2
+SENS008,Active,2024-06-22,Humidity,Finca 3
+SENS009,Inactive,2024-06-25,Humidity,Finca 4
+SENS010,Active,2024-06-28,Temperature,Finca 5
+SENS011,Inactive,2024-07-01,Humidity,Finca 1
+SENS012,Inactive,2024-07-04,Rainfall,Finca 2
+SENS013,Faulty,2024-07-07,pH,Finca 3
+SENS014,Faulty,2024-07-10,Temperature,Finca 4
+SENS015,Inactive,2024-07-13,Rainfall,Finca 5

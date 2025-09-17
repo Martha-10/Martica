@@ -1,0 +1,6 @@
+nombre_finca,region,es_organico,tipo_suelo,sistema_riego,fertilizante
+Finca 1,Tolima,false,Sandy,Sprinkler,Compost
+Finca 2,Cundinamarca,false,Sandy,Sprinkler,Manure
+Finca 3,Tolima,false,Clay,None,None
+Finca 4,Santander,false,Clay,Drip,NPK
+Finca 5,Huila,false,Loam,Sprinkler,None
